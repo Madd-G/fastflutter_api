@@ -4,3 +4,4 @@ pydantic
 uvicorn
 gunicorn
 cryptography
+pymysql
